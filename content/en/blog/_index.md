@@ -1,5 +1,5 @@
 ---
-title: "Contributor Blog"
+title: "Blog"
 linkTitle: "Blog"
 menu:
   main:

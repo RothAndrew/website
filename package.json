@@ -1,7 +1,7 @@
 {
-  "name": "contributor-site",
+  "name": "website",
   "version": "0.0.1",
-  "description": "Kubernetes Contributor Site",
+  "description": "Andrew Roth's website",
   "main": "none.js",
   "dependencies": {},
   "devDependencies": {
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubernetes-sigs/contributor-site.git"
+    "url": "git+https://github.com/RothAndrew/website.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubernetes-sigs/contributor-site/issues"
+    "url": "https://github.com/RothAndrew/website/issues"
   },
-  "homepage": "https://github.com/kubernetes-sigs/contributor-site#readme"
+  "homepage": "https://github.com/RothAndrew/website#readme"
 }
