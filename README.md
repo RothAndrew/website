@@ -1,6 +1,6 @@
 # Website
 
-This repository contains the [Hugo][hugo] site and generator scripts for my website. In the future, the site will be available at https://rothandrew.com. For now, you can access the in-progress site at https://rothandrewdocsy.netlify.app.
+This repository contains the [Hugo][hugo] site and generator scripts for [my website](https://www.rothandrew.com)
 
 Lifted from https://github.com/kubernetes-sigs/contributor-site and modified for my own use.
 
