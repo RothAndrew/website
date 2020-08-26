@@ -81,7 +81,10 @@ clean-all: ## Cleans both build artifacts and files sycned to content directory
 production-build: ## Builds the production site (this command used only by Netlify).
 	$(BLOCK_STDOUT_CMD)
 	git submodule update --init --recursive --depth 1
-	hack/gen-content.sh
+	
+	# no external content at the moment...
+	# hack/gen-content.sh
+	
 	hugo \
 		--verbose \
 		--buildFuture \
