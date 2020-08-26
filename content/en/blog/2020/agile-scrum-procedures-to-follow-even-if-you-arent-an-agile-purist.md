@@ -24,7 +24,11 @@ Here are some recommendations on how to increase your velocity:
 
 1. **Work on as few tasks at a time as possible**. When I work in a sprint on my team, I have a single task assigned to me at a time. The only exception to this is if someone didn't keep the sprint sacred by asking me to do something out of the scope of my sprint, or my current task is blocked by something out of my control. This is commonly known as **single-piece flow**. It comes from the manufacturing world and is one of the core concepts of DevOps. Check out [this article](https://caylent.com/devops-handbook-part-1-the-three-ways-2) for more info.
 
-1. **Don't allow scope creep**. If the acceptance criteria for the task you're working says "The lawn is mowed", The ONLY thing you should do is mow the lawn. If the Product Owner wanted the edging done, or the sidewalks swept, they would have added it to the acceptance criteria. If you take it upon yourself to do "extra" stuff, you will spend all day working on something your PO didn't care about. You could have been done in an hour, got your "velocity credit", made your PO happy, and moved on to something else. This can also manifest as something called [yak shaving](https://americanexpress.io/yak-shaving). For an example, see [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0).
+1. **Don't allow scope creep**. If the acceptance criteria for the task you're working says "The lawn is mowed", The ONLY thing you should do is mow the lawn. If the Product Owner wanted the edging done, or the sidewalks swept, they would have added it to the acceptance criteria. If you take it upon yourself to do "extra" stuff, you will spend all day working on something your PO didn't care about. You could have been done in an hour, got your "velocity credit", made your PO happy, and moved on to something else. This can also manifest as something called [yak shaving](https://americanexpress.io/yak-shaving). For an example, see Hal fixing a lightbulb:
+
+    <div class="">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/AbSehcT19u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 1. **Keep tasks small**. As mentioned above, your velocity is **zero** until the task gets moved to the "done" column, so keep them as small as possible
 
